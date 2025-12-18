@@ -184,7 +184,7 @@ than standard predictive models.
 - Churn vs Contract
 <br>
 <br>
-<img src="https://github.com/pratimadhende/customer-churn-causal-analysis/blob/87809449154d71533c55836637cd86cb97f772e6/Churn%20vs%20Contract.png" alt="Image Description" width="500">
+<img src="https://github.com/pratimadhende/customer-churn-causal-analysis/blob/0ed5dc6a6f3127dff7f8d685cdfe6fa117491196/Churn%20vs%20Contract.png" alt="Image Description" width="500">
 <br>
 <br>
 
@@ -206,6 +206,7 @@ than standard predictive models.
 <br>
 <br>
 <img src="https://github.com/pratimadhende/customer-churn-causal-analysis/blob/87809449154d71533c55836637cd86cb97f772e6/causal_model.png" alt="Image Description" width="500">
+
 
 
 
