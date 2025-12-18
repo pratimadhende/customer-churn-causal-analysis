@@ -37,7 +37,7 @@ Specifically, the project addresses the question:
 
 ## Methodology
 
-# 1. Data Preprocessing
+### 1. Data Preprocessing
 
 Removal of missing and inconsistent values
 
@@ -49,19 +49,19 @@ Standardization of numerical features
 
 
 
-# 2. Exploratory Analysis
+### 2. Exploratory Analysis
 
 Exploratory Data Analysis (EDA) was conducted to understand feature distributions and correlations. This step is used only for descriptive analysis and not for causal interpretation.
 
 
 
-# 3. Correlation-Based Analysis
+### 3. Correlation-Based Analysis
 
 Correlation matrices and feature–outcome relationships were analyzed to highlight potential misleading associations that arise when causality is not explicitly modeled.
 
 
 
-# 4. Causal Problem Formulation
+### 4. Causal Problem Formulation
 
 Treatment: Contract type
 
@@ -74,13 +74,13 @@ The causal question is formulated under the potential outcomes framework, explic
 
 
 
-# 5. Causal Graph Construction
+### 5. Causal Graph Construction
 
 A Directed Acyclic Graph (DAG) is constructed to encode domain assumptions and to identify valid backdoor adjustment sets. This step ensures transparency and interpretability of the causal model.
 
 
 
-# 6. Causal Effect Estimation
+### 6. Causal Effect Estimation
 
 Causal effects are estimated using the DoWhy framework:
 
@@ -93,7 +93,7 @@ Comparison with correlation-based findings
 
 
 
-# 7. Robustness and Refutation
+### 7. Robustness and Refutation
 
 The stability of causal estimates is evaluated using:
 
@@ -206,6 +206,7 @@ than standard predictive models.
 <br>
 <br>
 <img src="https://github.com/pratimadhende/customer-churn-causal-analysis/blob/87809449154d71533c55836637cd86cb97f772e6/causal_model.png" alt="Image Description" width="500">
+
 
 
 
